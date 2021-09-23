@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Dripbox](https://github.com/Ktechen/Dripbox) Website: [Dripbox](https://dripbox.herokuapp.com/)
 - 🌱 I’m currently learning [Javascript](https://www.javascript.com/) 
 
-<a href="https://github.com/notefox">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notefox&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notefox&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+
+My Github Statistics  | My Most Used Languages
+------------- | -------------
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notefox&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />  | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notefox&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+
+  
+  

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
-- 🔭 I’m currently working on [Dripbox](https://github.com/Ktechen/Dripbox) Website: [Dripbox](https://dripbox.herokuapp.com/)
+- 🔭 I’m currently working on [Dripbox](https://github.com/Ktechen/Dripbox) | Website: [Dripbox](https://dripbox.herokuapp.com/)
 - 🌱 I’m currently learning [Javascript](https://www.javascript.com/) 
 
 

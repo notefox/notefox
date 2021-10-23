@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
-- 🔭 I’m currently working on [Dripbox](https://github.com/Ktechen/Dripbox) | Website: [Dripbox](https://dripbox.herokuapp.com/)
-- 🌱 I’m currently learning [Javascript](https://www.javascript.com/) 
+- 🔭 I’m currently working for WP-Stars 
+- ✨ current "But-Better" Projects :
+  - Calculator API
+  
+- 🌱 I’m currently learning [Javascript](https://www.javascript.com/) | Frontend libraries | Java Spring Boot 
 
 
 My Github Statistics  | My Most Used Languages

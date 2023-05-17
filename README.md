@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
-- 🔭 I’m currently working for WP-Stars | elemente-material.de | audiocreatures.com 
+- 🔭 I’m currently working for WP-Stars | HTW Berlin Computermuseum | elemente-material.de | audiocreatures.com 
 
 - 🌱 I’m currently working with [Javascript](https://www.javascript.com/) | [React](https://react.dev/) | [php & wordpress](https://wordpress.org/) 
 

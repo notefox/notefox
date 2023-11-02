@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
-- 🔭 I’m currently working for WP-Stars | HTW Berlin Computermuseum | elemente-material.de | audiocreatures.com 
+- 🔭 I’m currently working for WP-Stars | HTW Berlin Computermuseum | elemente-material.de | audiocreatures.com | markus-zierhofer.com | 
 
-- 🌱 I’m currently working with [Javascript](https://www.javascript.com/) | [React](https://react.dev/) | [php & wordpress](https://wordpress.org/) 
+- 🌱 I’m currently working with [Javascript](https://www.javascript.com/) | [React](https://react.dev/) | [php & wordpress](https://wordpress.org/) | [MUI](https://mui.com/) | [Bootstrap](https://getbootstrap.com) | [Tailwind](https://tailwindcss.com/)
 
 
 My Github Statistics  | My Most Used Languages
